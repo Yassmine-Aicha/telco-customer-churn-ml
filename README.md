@@ -101,8 +101,8 @@ Le modèle ayant obtenu le meilleur F1-score est optimisé via `GridSearchCV` (v
 ## ⚙️ Installation et exécution
 
 ```bash
-git clone https://github.com/TON-PSEUDO/NOM-DU-REPO.git
-cd Yassmine-Aicha/telco-customer-churn-ml
+git https://github.com/Yassmine-Aicha/telco-customer-churn-ml.git
+cd cd telco-customer-churn-ml
 
 python3 -m venv venv
 source venv/bin/activate        # Windows : venv\Scripts\activate
