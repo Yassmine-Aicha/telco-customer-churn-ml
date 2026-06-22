@@ -102,7 +102,7 @@ Le modèle ayant obtenu le meilleur F1-score est optimisé via `GridSearchCV` (v
 
 ```bash
 git clone https://github.com/TON-PSEUDO/NOM-DU-REPO.git
-cd NOM-DU-REPO
+cd Yassmine-Aicha/telco-customer-churn-ml
 
 python3 -m venv venv
 source venv/bin/activate        # Windows : venv\Scripts\activate
